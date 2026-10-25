@@ -1,0 +1,16 @@
+name: movoa
+description: Official SDK for Movoa (movoa.ai), the AI video generator with sound. Text to video and photo to video from Dart with your Movoa API key.
+version: 0.1.0
+homepage: https://movoa.ai/?utm_source=pub.dev&utm_medium=package
+repository: https://github.com/hanshs474/movoa-dart
+issue_tracker: https://github.com/hanshs474/movoa-dart/issues
+topics: [video-generation, ai, text-to-video, image-to-video, ai-video]
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  test: ^1.25.0
